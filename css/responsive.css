@@ -1,0 +1,71 @@
+@media screen and (max-width: 1255px){
+
+.gal-img{
+
+	max-width:80%;
+	/*text-align: center;*/
+	margin:20px auto;
+}
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 767px){
+	.service .service-text{
+		margin-bottom: 30px;
+		text-align: center;
+	}
+
+	.gallery img{
+		margin-bottom: 20px;
+
+		/*margin:20px auto;*/
+	}
+
+	.what-we-do .do-img{
+				margin-top: 20px;
+	}
+
+
+
+	.pricing-table .card{
+		width:80%;
+		margin:20px auto;
+	}
+
+
+	.myblog .card{
+		width:80%;
+		margin:20px auto;
+	}
+
+
+	.contact-content .contact-left{
+		margin-bottom: 20px;
+	}
+
+
+}
+
+
+@media screen and (max-width: 1255px){
+
+.gal-img{
+
+	max-width:95%;
+	/*text-align: center;*/
+	margin:0 auto;
+}
+
+}
+
+@media screen and (max-width: 575px){
+
+	.newsletter input{
+		margin-bottom: 10px;
+	}
+}
